@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "smartenv"
+version = "0.1.0"
+description = "Smart .env loader with validation, fallback values, and secure masking."
+readme = "README.md"
+authors = [
+    { name="Adediran Ayomide Mathew", email="ayomideadediran45@gmail.com" }
+]
+license = {text = "MIT"}
+dependencies = ["python-dotenv"]
+
+requires-python = ">=3.6"
+
+[project.urls]
+"Homepage" = "https://github.com/Ay-developerweb/smartenv"
+"Bug Tracker" = "https://github.com/Ay-developerweb/smartenv/issues"
