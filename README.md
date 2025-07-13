@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="logo.png" width="150" alt="smartenvx logo" />
-</p>
+<h1 align="center">
+  <img src="logo.png" width="350" alt="smartenvx logo" />
+</h1><br>
 
 # smartenvx
 
