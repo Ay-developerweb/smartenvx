@@ -1,4 +1,6 @@
-# smartenv
+# smartenvx
+
+[![PyPI version](https://badge.fury.io/py/smartenvx.svg)](https://pypi.org/project/smartenvx/)
 
 **Smart .env loader with validation, fallback values, and secure variable handling.**  
 Simplify your environment variable management across any Python project with smart defaults, type conversion, required flags, and secure masking.
@@ -18,13 +20,13 @@ Simplify your environment variable management across any Python project with sma
 ## 📦 Installation
 
 ```bash
-pip install smartenv
+pip install smartenvx
 ```
 ---
 
 ## ⚡ Quick Usage
 ```python
-from smartenv import load_env, get_env, require_env, secure_env
+from smartenvx import load_env, get_env, require_env, secure_env
 
 load_env()  # Loads from .env
 
@@ -70,6 +72,6 @@ actual = password == "SECRET"  # ✅ True
 ---
 ### 📚 License
 MIT License © 2025 Ayomide Adediran
-https://github.com/Ay-developerweb/smartenv
+https://github.com/Ay-developerweb/smartenvx
 
 ---
