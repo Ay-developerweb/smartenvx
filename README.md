@@ -1,6 +1,7 @@
 <p align="center">
   <img src="logo.png" width="150" alt="smartenvx logo" />
 </p>
+
 # smartenvx
 
 [![PyPI version](https://badge.fury.io/py/smartenvx.svg)](https://pypi.org/project/smartenvx/)
