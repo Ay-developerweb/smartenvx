@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo1.png" width="150" alt="smartenvx logo" />
+  <img src="logo.png" width="150" alt="smartenvx logo" />
 </p>
 
 # smartenvx
