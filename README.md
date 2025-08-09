@@ -6,7 +6,7 @@
 
 [![PyPI version](https://badge.fury.io/py/smartenvx.svg)](https://pypi.org/project/smartenvx/)
 
-**Smartenvx is a smart .env loader with validation, fallback values, and secure variable handling.**  
+**Smartenvx is a smart .env files loader with validation, fallback values, and secure variable handling.**  
 Simplify your environment variable management across any Python project with smart defaults, type conversion, required flags, and secure masking.
 
 ---
